@@ -1,0 +1,17 @@
+{
+    "name": "adiya/kalkulator",
+    "description": "belajar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adiya\\Kalkulator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adiya"
+        }
+    ],
+    "require": {}
+}
